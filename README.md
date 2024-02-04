@@ -41,10 +41,6 @@ bash jdp.sh
 > All the dependencies will be installed automatically when you run `jdp` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
-### Special Thanks :
-
-- [**htr-tech**](https://github.com/4xachi)
-
 ### Disclaimer
 
 <i>Any actions and or activities related to <b>jdp (from zphisher)</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
