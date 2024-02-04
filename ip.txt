@@ -1,0 +1,71 @@
+
+IP: 136.158.49.153
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 136.158.49.153
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+IP: 173.252.87.11
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 173.252.83.117
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 173.252.83.117
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 136.158.49.153
+ User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
+IP: 136.158.49.153
+ User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
+IP: 173.252.87.6
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 173.252.95.24
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 173.252.95.119
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 64.224.102.254
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/443.0.0.28.117;FBBV/561226691;FBDV/iPhone12,3;FBMD/iPhone;FBSN/iOS;FBSV/17.3;FBSS/3;FBCR/;FBID/phone;FBLC/en;FBOP/80]
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 136.158.49.153
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 136.158.49.153
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
+IP: 34.83.203.92
+ User-Agent: 
